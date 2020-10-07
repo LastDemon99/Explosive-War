@@ -1,0 +1,6 @@
+D:\OneDrive\Escritorio\varios\IS\ExplosiveWar\ExplosiveWar\obj\Debug\ExplosiveWar.csprojResolveAssemblyReference.cache
+D:\OneDrive\Escritorio\varios\IS\ExplosiveWar\ExplosiveWar\bin\Debug\ExplosiveWar.dll
+D:\OneDrive\Escritorio\varios\IS\ExplosiveWar\ExplosiveWar\bin\Debug\ExplosiveWar.pdb
+D:\OneDrive\Escritorio\varios\IS\ExplosiveWar\ExplosiveWar\bin\Debug\InfinityScript.dll
+D:\OneDrive\Escritorio\varios\IS\ExplosiveWar\ExplosiveWar\obj\Debug\ExplosiveWar.dll
+D:\OneDrive\Escritorio\varios\IS\ExplosiveWar\ExplosiveWar\obj\Debug\ExplosiveWar.pdb
